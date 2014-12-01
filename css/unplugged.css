@@ -9,6 +9,32 @@ html, body {
     box-sizing: border-box;
 }
 
+h1 {
+    font-family: 'Fjord One', serif;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.chapter-title {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.chapter {
+    padding-bottom: 50px;
+}
+
 .welcome-banner {
     background-image: url("../img/header/header_background.jpg");
     background-size:   cover;                      /* <------ */
@@ -40,24 +66,7 @@ html, body {
     margin-bottom: 50px;
 }
 
-h1 {
-    font-family: 'Fjord One', serif;
-    font-size: 35px;
-}
-
-h2 {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
-    font-size: 24px;
-}
-
-p {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-}
-
-.chapter-title {
-    margin-top: 50px;
-    margin-bottom: 50px;
+.not-perfect {
+    background-color: #333333;
+    color: white;
 }
