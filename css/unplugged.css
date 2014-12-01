@@ -44,3 +44,20 @@ h1 {
     font-family: 'Fjord One', serif;
     font-size: 35px;
 }
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.chapter-title {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
