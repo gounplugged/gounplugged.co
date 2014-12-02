@@ -73,6 +73,14 @@ a:visited {
     color: white;
 }
 
+.welcome-toggle {
+    margin-top: 150px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
 .welcome-button {
     margin-top: 150px;
     background: none;
