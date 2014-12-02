@@ -9,6 +9,15 @@ html, body {
     box-sizing: border-box;
 }
 
+iframe{
+    position: absolute;
+    left:0;
+    right:0;
+    bottom:0;
+    top:0;
+    border:0;
+}
+
 h1 {
     font-family: 'Fjord One', serif;
     font-size: 35px;
@@ -93,6 +102,14 @@ a:visited {
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-size: 18px;
+}
+
+.welcome-submitted {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    visibility: hidden;
 }
 
 .welcome-arrow {

@@ -6,14 +6,39 @@ $(document).ready(function() {
     return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
   }
 
-  function toggleWelcomeButton(showOrHide) {
-    $("#welcome-button").toggle(showOrHide);
-    $("#welcome-form").toggle(!showOrHide);
+  function toggleWelcomeForm(showOrHide) {
+    $("#welcome-button").addClass('hidden');
+    $("#welcome-form").removeClass('hidden');
   }
 
-  toggleWelcomeButton(true);
+  function toggleSubmitButton(showOrHide) {
+    $("#welcome-form").addClass('hidden');
+    $("#welcome-submitted").removeClass('hidden');
+  }
 
-  $( "#welcome-button" ).click(function() {
-    toggleWelcomeButton();
+  function submitContactInfo(contactInfo) {
+    // $.post( "example.php", { contact_info: contactInfo });
+    var currentUrl = window.location.href;
+    assert(currentUrl);
+  }
+
+  function submitHeaderForm() {
+    var contactInfo = $("#header-email").val();
+    submitContactInfo(contactInfo);
+    // toggleSubmitButton(true);
+  }
+
+  function submitEndForm() {
+
+  }
+
+  // toggleWelcomeButton(true);
+
+  $("#welcome-button").click(function() {
+    toggleWelcomeForm();
+  });
+
+  $("#welcome-form-form").submit(function() {
+    submitHeaderForm();
   });
 });
