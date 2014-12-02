@@ -128,3 +128,24 @@ a:visited {
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+.end-note {
+    background-image: url("../img/header/header_background.jpg");
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.end-button {
+    margin-top: 50px;
+    background: none;
+    outline: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
