@@ -20,6 +20,12 @@ h2 {
     font-size: 24px;
 }
 
+h3 {
+    font-family: 'Fjord One', serif;
+    font-size: 50px;
+    margin-top: 5px;
+}
+
 p {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
@@ -72,9 +78,17 @@ p {
 }
 
 .not-ours-explanation {
-    padding-top: 50px;
+    margin-top: 50px;
 }
 
 .not-ours-explanation-text {
     font-size: 24px;
+}
+
+.vision {
+    color: white;
+    background-image: url("../img/header/header_background.jpg");
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;
 }
