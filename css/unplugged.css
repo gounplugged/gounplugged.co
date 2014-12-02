@@ -26,14 +26,34 @@ h3 {
     margin-top: 5px;
 }
 
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 350px;
+    margin-bottom: 300px;
+}
+
 p {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 18px;
 }
 
+a:link {
+    color: #7FB75F;
+}
+
+a:visited {
+    color: #7FB75F;
+}
+
+.shadow {
+    text-shadow: 5px 5px 5px black;
+}
+
 .chapter-title {
-    margin-top: 50px;
+    margin-top: 60px;
     margin-bottom: 50px;
 }
 
@@ -88,6 +108,14 @@ p {
 .vision {
     color: white;
     background-image: url("../img/header/header_background.jpg");
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.edgenet {
+    color: white;
+    background-image: url("../img/edgenet/edgenet-people.jpg");
     background-size:   cover;                      /* <------ */
     background-repeat: no-repeat;
     background-position: center center;
