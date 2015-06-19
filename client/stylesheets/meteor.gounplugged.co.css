@@ -61,8 +61,12 @@ a:visited {
     padding-bottom: 50px;
 }
 
+.notifications {
+    padding-top: 20px;
+}
+
 .welcome-banner {
-    background-image: url("../img/header/header_background.jpg");
+    background-image: url("/header/header_background.jpg");
     background-size:   cover;                      /* <------ */
     background-repeat: no-repeat;
     background-position: center center;
@@ -126,7 +130,7 @@ a:visited {
 
 .vision {
     color: white;
-    background-image: url("../img/header/header_background.jpg");
+    background-image: url("/header/header_background.jpg");
     background-size:   cover;                      /* <------ */
     background-repeat: no-repeat;
     background-position: center center;
@@ -134,7 +138,7 @@ a:visited {
 
 .edgenet {
     color: white;
-    background-image: url("../img/edgenet/edgenet-people.jpg");
+    background-image: url("/edgenet/edgenet-people.jpg");
     background-size:   cover;                      /* <------ */
     background-repeat: no-repeat;
     background-position: center center;
@@ -142,14 +146,14 @@ a:visited {
 
 .expansion {
     color: white;
-    background-image: url("../img/expansion/expansion-city.jpg");
+    background-image: url("/expansion/expansion-city.jpg");
     background-size:   cover;                      /* <------ */
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 .end-note {
-    background-image: url("../img/header/header_background.jpg");
+    background-image: url("/header/header_background.jpg");
     background-size:   cover;                      /* <------ */
     background-repeat: no-repeat;
     background-position: center center;
