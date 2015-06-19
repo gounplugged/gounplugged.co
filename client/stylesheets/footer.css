@@ -1,0 +1,12 @@
+.footer {
+    background-image: url("/header/header_background.jpg");
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 200px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 75px;
+}
