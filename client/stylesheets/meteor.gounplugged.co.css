@@ -48,6 +48,10 @@ a:visited {
     color: #7FB75F;
 }
 
+.page {
+    padding-top: 100px;
+}
+
 .shadow {
     text-shadow: 5px 5px 5px black;
 }
