@@ -1,4 +1,4 @@
-Template.aboutWelcome.events({
+Template.signupEmail.events({
   'click .signup-button': function(e) {
     signup(e);
   },
