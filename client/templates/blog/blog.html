@@ -1,3 +1,12 @@
-<template name="blog">
-
+<template name="unpluggedBlogIndex">
+  <div id="meteor-blog" class="blog-list">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          {{> blogIndexLoop}}
+          {{blogPager}}
+        </div>
+      </div>
+    </div>
+  </div>
 </template>

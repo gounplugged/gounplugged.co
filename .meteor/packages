@@ -9,3 +9,6 @@ twbs:bootstrap
 okgrow:analytics
 iron:router
 pauloborges:mapbox@2.1.4_3
+ian:accounts-ui-bootstrap-3
+accounts-password
+ryw:blog
