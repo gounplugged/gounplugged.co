@@ -8,3 +8,4 @@ meteor-platform
 twbs:bootstrap
 okgrow:analytics
 iron:router
+pauloborges:mapbox@2.1.4_3
