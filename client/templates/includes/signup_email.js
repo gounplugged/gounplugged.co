@@ -24,9 +24,9 @@ var signup = function(e) {
   email.val('');
   Meteor.call('signupCreate', signup, function(error, padId) {
     if (error){
-      notify("Sorry, " + address + " has already registered.", "warning");
+      notify("Sorry, " + address + " has already been registered. You really, want to know more don't you.", "warning");
     } else {
-      notify("Thank you, " + address + " has been registered.", "success");
+      notify("Thank you, " + address + " has been registered. You will only hear from us with important updates, really.", "success");
     }
     return;
   });
