@@ -1,0 +1,398 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "bf159515af5f9ae912638e10fc2f56ed8e45c2b9.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/bf159515af5f9ae912638e10fc2f56ed8e45c2b9.js",
+      "size": 757545,
+      "hash": "bf159515af5f9ae912638e10fc2f56ed8e45c2b9"
+    },
+    {
+      "path": "99e9c53848c25742ecaa13bc4514488f3aab0d59.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/99e9c53848c25742ecaa13bc4514488f3aab0d59.css?meteor_css_resource=true",
+      "size": 128020,
+      "hash": "99e9c53848c25742ecaa13bc4514488f3aab0d59"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "size": 20127,
+      "hash": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "size": 108738,
+      "hash": "de51a8494180a6db074af2dee2383f0a363c5b08"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "size": 45404,
+      "hash": "44bc1850f570972267b169ae18f1cb06b611ffa2"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "size": 23424,
+      "hash": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "size": 18028,
+      "hash": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
+    },
+    {
+      "path": "app/brand-logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/brand-logo.png",
+      "size": 4282,
+      "hash": "c4578c680c87c20f26108416591c09d306694980"
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.ico",
+      "size": 29681,
+      "hash": "0bfea517e9701f85e7ff90c09f9a06ac20abc2d5"
+    },
+    {
+      "path": "app/marvinPersonal.asc",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/marvinPersonal.asc",
+      "size": 3843,
+      "hash": "0fc6e70e55d647cc0a10ebf08e098f3e466b6820"
+    },
+    {
+      "path": "app/marvinUnplugged.asc",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/marvinUnplugged.asc",
+      "size": 3104,
+      "hash": "f8f65b7bfe090065cab55d7e674afb5bfa09508e"
+    },
+    {
+      "path": "app/not-found.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/not-found.jpg",
+      "size": 85032,
+      "hash": "027103d586dd18c82fa3bafef639733a2003e00c"
+    },
+    {
+      "path": "app/unplugged.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/unplugged.png",
+      "size": 13819,
+      "hash": "eb96a079ebde7d14986ef2364626b15561d012d5"
+    },
+    {
+      "path": "app/edgenet/edgenet-people.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/edgenet/edgenet-people.jpg",
+      "size": 121072,
+      "hash": "3ae5b95ac2f027b0db8bc1966b07793676c83191"
+    },
+    {
+      "path": "app/expansion/expansion-city.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/expansion/expansion-city.jpg",
+      "size": 140595,
+      "hash": "53686246a610c786701993189a1efa253f00b7d3"
+    },
+    {
+      "path": "app/flyfi/compatible.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/flyfi/compatible.jpg",
+      "size": 13647,
+      "hash": "7c4c55626fa8e88c243cb77a6243764a4f501633"
+    },
+    {
+      "path": "app/flyfi/crowds.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/flyfi/crowds.jpg",
+      "size": 16146,
+      "hash": "9dd5a90a49c6ba833d8e351460c78a699828caf3"
+    },
+    {
+      "path": "app/flyfi/disaster.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/flyfi/disaster.jpg",
+      "size": 38331,
+      "hash": "fc60a9dee16848ebf9e78fef7eeeb1c7a2053740"
+    },
+    {
+      "path": "app/flyfi/equitable.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/flyfi/equitable.jpg",
+      "size": 13773,
+      "hash": "2ea07676b3f558b9c3fd7e8a5fba4f213641d706"
+    },
+    {
+      "path": "app/flyfi/flyfi.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/flyfi/flyfi.jpg",
+      "size": 46637,
+      "hash": "55ad7d0dd18c47ed9bf2a6270f062286e1122076"
+    },
+    {
+      "path": "app/flyfi/scalable.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/flyfi/scalable.jpg",
+      "size": 15535,
+      "hash": "b538b18a27e11e6103217e5762a79e004afe8221"
+    },
+    {
+      "path": "app/flyfi/ubiquitous.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/flyfi/ubiquitous.jpg",
+      "size": 15970,
+      "hash": "fcd8c4c94fc631669ba64ed9d38468c3ecf55c98"
+    },
+    {
+      "path": "app/header/header-submit-arrow.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/header/header-submit-arrow.png",
+      "size": 865,
+      "hash": "66d9784c88dae019d59201fbaf9fe320597c62f8"
+    },
+    {
+      "path": "app/header/header_arrow.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/header/header_arrow.png",
+      "size": 1488,
+      "hash": "a97e650097f198778238fd754c61a7618122d7b5"
+    },
+    {
+      "path": "app/header/header_background.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/header/header_background.jpg",
+      "size": 22043,
+      "hash": "635b64f468edcb135c2158e861b2b8880f50c2af"
+    },
+    {
+      "path": "app/not-ours/not-ours.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/not-ours/not-ours.png",
+      "size": 26302,
+      "hash": "59d56dccdd6c91d79150823f4571fb4a908a3a03"
+    },
+    {
+      "path": "app/not-perfect/not-perfect-cost.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/not-perfect/not-perfect-cost.png",
+      "size": 1814,
+      "hash": "069831f9f69e7f89f1582b8dd904e6d68092437e"
+    },
+    {
+      "path": "app/not-perfect/not-perfect-privacy.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/not-perfect/not-perfect-privacy.png",
+      "size": 1990,
+      "hash": "3c53975fb79cbbc34a84fd5989aa18db99141096"
+    },
+    {
+      "path": "app/not-perfect/not-perfect-spying.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/not-perfect/not-perfect-spying.png",
+      "size": 1792,
+      "hash": "8afead407a91ed94bf3388ed046e65ea20c54fc4"
+    },
+    {
+      "path": "app/research/research.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/research/research.jpg",
+      "size": 21928,
+      "hash": "de6489a191ef32f775f6011ad145797f2cd5be40"
+    },
+    {
+      "path": "app/secondline/anonymous.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/secondline/anonymous.jpg",
+      "size": 20850,
+      "hash": "fe1a66d1d4aff28ae3a62dc2a7cc68b4ca4c2216"
+    },
+    {
+      "path": "app/secondline/github.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/secondline/github.jpg",
+      "size": 6572,
+      "hash": "a17eebd37a8bb6a5dfa085a3593bc7dedeae935c"
+    },
+    {
+      "path": "app/secondline/googleplay.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/secondline/googleplay.jpg",
+      "size": 5484,
+      "hash": "25ab3cbd364612bb2e4e0bba0dcf86eb95d938a5"
+    },
+    {
+      "path": "app/secondline/hasslefree.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/secondline/hasslefree.jpg",
+      "size": 13962,
+      "hash": "f159d0f0e1af2ca427d1b8b19f33c58648d5e6d3"
+    },
+    {
+      "path": "app/secondline/offline.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/secondline/offline.jpg",
+      "size": 11376,
+      "hash": "9a828fd299c06b31d8b17b7f8e2d4f33c5946dff"
+    },
+    {
+      "path": "app/secondline/secondline.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/secondline/secondline.jpg",
+      "size": 21792,
+      "hash": "c48ca54adde956f790e102e31259c19790f09a6f"
+    },
+    {
+      "path": "app/secondline/secure.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/secondline/secure.jpg",
+      "size": 12423,
+      "hash": "53ba132e46814f5ec939765b8d5cb9b1c48cd9ff"
+    },
+    {
+      "path": "app/social/social-access.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/social/social-access.png",
+      "size": 3079,
+      "hash": "5d9fe2860f8f345232116c35edf9a0ffb521c466"
+    },
+    {
+      "path": "app/social/social-disaster.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/social/social-disaster.png",
+      "size": 2611,
+      "hash": "c9e62b7647166a7155e64d2e61832468fd54f6c5"
+    },
+    {
+      "path": "app/social/social-ownership.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/social/social-ownership.png",
+      "size": 2573,
+      "hash": "fdbdf75f0f5a1648696707fb2fdcf5fc06118210"
+    },
+    {
+      "path": "app/wonderful/wonderful_community.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/wonderful/wonderful_community.png",
+      "size": 2022,
+      "hash": "32ac1396fcd0ce684601e0837703dc338bc8b56a"
+    },
+    {
+      "path": "app/wonderful/wonderful_family.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/wonderful/wonderful_family.png",
+      "size": 2852,
+      "hash": "d95f047b53c1011692918e0aea9d9a1fb6d226cc"
+    },
+    {
+      "path": "app/wonderful/wonderful_scale.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/wonderful/wonderful_scale.png",
+      "size": 3600,
+      "hash": "ad892029fdc314fa72324880d0ef828a8a2bf14a"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "5d8547913b043e04edf77a9c19fb2e3d96b97f29"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.not-found-chapter {
+  background-image: url("/not-found.jpg");
+  background-size:   cover;                      /* <------ */
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 1000px;
+}
+
+.not-found-row {
+  padding-top: 15%;
+}
+
+.not-found-better {
+  padding-top: 35%;
+}

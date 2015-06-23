@@ -1,0 +1,8 @@
+#map {
+  height: 500px;
+}
+
+.map-container {
+  padding-top: 50px;
+  background-color: #D2D2D2;
+}
